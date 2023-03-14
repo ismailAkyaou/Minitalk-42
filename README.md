@@ -348,10 +348,7 @@ DESCRIPTION
 ```
 
 
-# 4 - Testing 
-<!-- Minitalk_42 -->
-
-# 5 - Demo
+# 4 - Demo
 
  ![minitalk demo](img/minitalk_demo.gif)
 
@@ -362,7 +359,7 @@ DESCRIPTION
 	- Receiving a message from a 2nd client after 1st client (in a row)
 	- Client showing transmission log
 
-# 6 - Resources
+# 5 - Resources
 - [Sending and Handling Signals in C (kill, signal, sigaction)](https://www.youtube.com/watch?v=83M5-NPDeWs)
 - [Communicating between processes using signals](https://www.youtube.com/watch?v=PErrlOx3LYE)
 - [Good reading about how to approach the project](https://github.com/mlanca-c/Minitalk/wiki)
