@@ -12,7 +12,7 @@
 
 #include "minitalk.h"
 
-void	ft_check(int *save, char *byte, int *ch, int *i)
+void	ft_check(int *save, char *byte, int *new_pid, int *i)
 {
 	if (*save != *new_pid)
 	{
