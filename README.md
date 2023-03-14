@@ -348,13 +348,8 @@ DESCRIPTION
 ```
 
 
-# 4 - Testing
-
-## 4.1 - Testers
-- [xicodomingues / francinette](https://github.com/xicodomingues/francinette)
-  
-## 4.2 - Result
- ![minitalk francinette result](img/minitalk_tester.gif)
+# 4 - Testing 
+<!-- Minitalk_42 -->
 
 # 5 - Demo
 
