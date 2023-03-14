@@ -52,7 +52,7 @@ int	main(int ac, char **av)
 	piid = ft_atoi(av[1]);
 	if (piid <= 0)
 	{
-		write (1, "ERROR:7 ", 8);
+		write (1, "ERROR : ", 7);
 		return (1);
 	}
 	send_byts(piid, av[2]);
